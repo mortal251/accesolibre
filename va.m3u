@@ -1,0 +1,169 @@
+#EXTM3U   
+
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/1.jpg" group-title="VISUAL ARGENTINA", C1/VISUAL ARGENTINA
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/3.jpg" group-title="VISUAL ARGENTINA", C3/VER TV
+https://media.cdnvid.com/public/uovlwqzikeyf.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/4.jpg" group-title="VISUAL ARGENTINA", C4/SUEÑOS GROUP TV
+https://vtm1.msinteractiva.com/suenosgrouptv/suenosgrouptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/05.jpg" group-title="VISUAL ARGENTINA", C5/CANAL 5 DEL PUEBLO
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/8.jpg" group-title="VISUAL ARGENTINA", C6/SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/7.jpg" group-title="VISUAL ARGENTINA", C7/SOLIVE TV
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/02/canal-36.jpg" group-title="VISUAL ARGENTINA", C8/CANAL 8 ROSARIO
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/9.jpg" group-title="VISUAL ARGENTINA", C9/QUANTICA TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/10.jpg" group-title="VISUAL ARGENTINA", C10/NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/11.jpg" group-title="VISUAL ARGENTINA", C11/GO TV
+https://channel.gotv.ar:1936/GOTV/vivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/14.jpg" group-title="VISUAL ARGENTINA", C14/CANAL 14
+https://vtm1.msinteractiva.com/canal14tv/canal14tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/15.jpg" group-title="VISUAL ARGENTINA", C15/COSMOS TV
+https://canaletaplus.com:3922/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/17.jpg" group-title="VISUAL ARGENTINA", C17/CANAL 3
+https://vtm1.msinteractiva.com/canal3argentina/canal3argentina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/08/19.jpg" group-title="VISUAL ARGENTINA", C19/TELECINCO TRELEW
+https://stmvideo1.livecastv.com/tele5trelew/tele5trelew/playlist.m3u8?hls_ctx=w4x26msd
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/20.jpg" group-title="VISUAL ARGENTINA", C20/TELEMIX
+https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/22.jpg" group-title="VISUAL ARGENTINA", C22/BTV DIGITAL
+https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/24.jpg" group-title="VISUAL ARGENTINA", C24/CROSSING
+https://vtm1.msinteractiva.com/crossingtv/crossingtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/28.jpg" group-title="VISUAL ARGENTINA", C26/ESTACION WINNER TV
+https://stmv7.voxtvhd.com.br/winnertv/winnertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/27-1.jpg" group-title="VISUAL ARGENTINA", C27/EL PALOMAR TV
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/34.jpg" group-title="VISUAL ARGENTINA", C29/TV DONNA DIGITAL
+https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/31-1.jpg" group-title="VISUAL ARGENTINA", C30/PRENSA DEL INTERIOR
+https://vtm1.msinteractiva.com/prensadelinterior/prensadelinterior/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/34-la-vitrola-tv.jpg" group-title="VISUAL ARGENTINA", C34/LA VITROLA TV
+https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/41-espacio-fbrik.jpg" group-title="VISUAL ARGENTINA", C36/ESPACIO FABRIK
+https://vtm1.msinteractiva.com/espaciofabrik/espaciofabrik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/05/37-gdi-television.jpg" group-title="VISUAL ARGENTINA", C37/GDI TELEVISION
+https://stmv1.voxtvhd.com.br/generacionimpacto/generacionimpacto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/08/38-estercita.jpg" group-title="VISUAL ARGENTINA", C38/ESTERCITA TV
+https://stmv7.voxtvhd.com.br/estercitatv/estercitatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/42-el-duende.jpg" group-title="VISUAL ARGENTINA", C42/EL DUENDE TV
+https://vtm2.msinteractiva.com/canal4tvolavarria/canal4tvolavarria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/43-senal-urbana.jpg" group-title="VISUAL ARGENTINA", C43/SEÑAL URBANA +
+https://vtm2.msinteractiva.com/urbanamas/urbanamas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/27.jpg" group-title="VISUAL ARGENTINA", C72/CANAL 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/78-lamil35-1.jpg" group-title="VISUAL ARGENTINA", C78/LAMIL35 TV
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/28.jpg" group-title="VISUAL ARGENTINA", C150/RADIO YGUAZU
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/29.jpg" group-title="VISUAL ARGENTINA", C151/RADIO PLUS 88.1 FM
+https://stmv6.voxtvhd.com.br/radioplus881aut/radioplus881aut/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/29.jpg" group-title="VISUAL ARGENTINA", C152/LINEA DIRECTA MOVIL
+https://stmv6.voxtvhd.com.br/lineadirectaweb/lineadirectaweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/31.jpg" group-title="VISUAL ARGENTINA", C153/AZAHARES RADIO 101.5 FM
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/154.jpg" group-title="VISUAL ARGENTINA", C154/RADIO RAWSON 105.1 FM
+https://stmv3.voxtvhd.com.br/radiorawson/radiorawson/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/02/156.jpg" group-title="VISUAL ARGENTINA", C156/RADIO CONEXION WEB
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/10/157-Radio-el-signo.jpg" group-title="VISUAL ARGENTINA", C157/EL SIGNO FISHERTON 106.5 FM
+https://stmv7.voxtvhd.com.br/elsignofish/elsignofish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/10/158-fm-winner.jpg" group-title="VISUAL ARGENTINA", C158/FM ESTACION WINNER
+https://stmv2.voxtvhd.com.br/fmestwinner/fmestwinner/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/07/159-columnas-de-fuego.jpg" group-title="VISUAL ARGENTINA", C159/RADIO COLUMNA DE FUEGO
+https://vtm1.msinteractiva.com/columnadefuego/columnadefuego/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/160-radio-online-parana.jpg" group-title="VISUAL ARGENTINA", C160/RADIO ONLINE PARANA
+https://cs1.xcast.com.br/10466/10466/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/32.jpg" group-title="VISUAL ARGENTINA", C200/CHAMAME TV
+https://vtm1.msinteractiva.com/chamametv/chamametv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/2.jpg" group-title="VISUAL ARGENTINA", C250/CNAR NOTICIAS 24HRS
+https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/3.jpg" group-title="VISUAL ARGENTINA", C251/CNAR DEPORTES
+https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/4.jpg" group-title="VISUAL ARGENTINA", C300/MULTIVOX CINE
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/5.jpg" group-title="VISUAL ARGENTINA", C330/XPHERE ONE
+https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/6.jpg" group-title="VISUAL ARGENTINA", C331/XPHERE AVENTURA
+https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/7.jpg" group-title="VISUAL ARGENTINA", C332/XPHERE COSMOS
+https://stmv2.voxtvhd.com.br/xpherecosmos/xpherecosmos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/8.jpg" group-title="VISUAL ARGENTINA", C333/XPHERE VITA
+https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/9.jpg" group-title="VISUAL ARGENTINA", C334/XPHERE STARS
+https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/10.jpg" group-title="VISUAL ARGENTINA", C335/XPHERE HISTORY
+https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/11.jpg" group-title="VISUAL ARGENTINA", C336/XPHERE SCIENCE
+https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/12.jpg" group-title="VISUAL ARGENTINA", C337/XPHERE WILD
+https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/13.jpg" group-title="VISUAL ARGENTINA", C350/SPECTRA GROOVE LIVE SESSIONS
+https://stmv6.voxtvhd.com.br/spectralive/spectralive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/14.jpg" group-title="VISUAL ARGENTINA", C351/SPECTRA GROOVE TOP HITS
+https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/15-groove-chill.jpg" group-title="VISUAL ARGENTINA", C352/SPECTRA GROOVE CHILL
+https://stmv3.voxtvhd.com.br/spectrachill/spectrachill/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/500.jpg" group-title="VISUAL ARGENTINA", C500/EVENTOS
+https://stmv7.voxtvhd.com.br/eventos550/eventos550/playlist.m3u8

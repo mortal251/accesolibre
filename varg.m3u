@@ -1,7 +1,7 @@
 #EXTM3U   
 
 
-#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/1.jpg" group-title="VISUAL ARGENTINA", C1 VISUAL ARGENTINA
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/1.jpg" group-title="VISUAL ARGENTINA", C1/VISUAL ARGENTINA
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
 
@@ -167,3 +167,4 @@ https://stmv3.voxtvhd.com.br/spectrachill/spectrachill/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/500.jpg" group-title="VISUAL ARGENTINA", C500/EVENTOS
 https://stmv7.voxtvhd.com.br/eventos550/eventos550/playlist.m3u8
+
